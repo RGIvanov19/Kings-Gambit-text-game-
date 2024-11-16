@@ -1,0 +1,14 @@
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\bin\Debug\net8.0\RoomsGame.exe
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\bin\Debug\net8.0\RoomsGame.deps.json
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\bin\Debug\net8.0\RoomsGame.runtimeconfig.json
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\bin\Debug\net8.0\RoomsGame.dll
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\bin\Debug\net8.0\RoomsGame.pdb
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.AssemblyInfoInputs.cache
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.AssemblyInfo.cs
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.csproj.CoreCompileInputs.cache
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.dll
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\refint\RoomsGame.dll
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.pdb
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\RoomsGame.genruntimeconfig.cache
+C:\Users\Radoslav\source\repos\RoomsGame\RoomsGame\obj\Debug\net8.0\ref\RoomsGame.dll
